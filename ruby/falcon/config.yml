@@ -1,0 +1,4 @@
+framework:
+  website: https://socketry.github.io/falcon/
+  github: socketry/falcon
+  version: "0.43.0"
